@@ -1,0 +1,10 @@
+C:\Users\Xopero\source\repos\cwiczenie9\cwiczenie9\bin\Debug\cwiczenie9.exe.config
+C:\Users\Xopero\source\repos\cwiczenie9\cwiczenie9\bin\Debug\cwiczenie9.exe
+C:\Users\Xopero\source\repos\cwiczenie9\cwiczenie9\bin\Debug\cwiczenie9.pdb
+C:\Users\Xopero\source\repos\cwiczenie9\cwiczenie9\obj\Debug\cwiczenie9.csproj.AssemblyReference.cache
+C:\Users\Xopero\source\repos\cwiczenie9\cwiczenie9\obj\Debug\cwiczenie9.Form1.resources
+C:\Users\Xopero\source\repos\cwiczenie9\cwiczenie9\obj\Debug\cwiczenie9.Properties.Resources.resources
+C:\Users\Xopero\source\repos\cwiczenie9\cwiczenie9\obj\Debug\cwiczenie9.csproj.GenerateResource.cache
+C:\Users\Xopero\source\repos\cwiczenie9\cwiczenie9\obj\Debug\cwiczenie9.csproj.CoreCompileInputs.cache
+C:\Users\Xopero\source\repos\cwiczenie9\cwiczenie9\obj\Debug\cwiczenie9.exe
+C:\Users\Xopero\source\repos\cwiczenie9\cwiczenie9\obj\Debug\cwiczenie9.pdb

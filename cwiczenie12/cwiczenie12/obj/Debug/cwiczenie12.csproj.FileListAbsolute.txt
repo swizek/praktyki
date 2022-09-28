@@ -1,0 +1,10 @@
+C:\Users\Xopero\source\repos\cwiczenie12\cwiczenie12\bin\Debug\cwiczenie12.exe.config
+C:\Users\Xopero\source\repos\cwiczenie12\cwiczenie12\bin\Debug\cwiczenie12.exe
+C:\Users\Xopero\source\repos\cwiczenie12\cwiczenie12\bin\Debug\cwiczenie12.pdb
+C:\Users\Xopero\source\repos\cwiczenie12\cwiczenie12\obj\Debug\cwiczenie12.csproj.AssemblyReference.cache
+C:\Users\Xopero\source\repos\cwiczenie12\cwiczenie12\obj\Debug\cwiczenie12.Form1.resources
+C:\Users\Xopero\source\repos\cwiczenie12\cwiczenie12\obj\Debug\cwiczenie12.Properties.Resources.resources
+C:\Users\Xopero\source\repos\cwiczenie12\cwiczenie12\obj\Debug\cwiczenie12.csproj.GenerateResource.cache
+C:\Users\Xopero\source\repos\cwiczenie12\cwiczenie12\obj\Debug\cwiczenie12.csproj.CoreCompileInputs.cache
+C:\Users\Xopero\source\repos\cwiczenie12\cwiczenie12\obj\Debug\cwiczenie12.exe
+C:\Users\Xopero\source\repos\cwiczenie12\cwiczenie12\obj\Debug\cwiczenie12.pdb

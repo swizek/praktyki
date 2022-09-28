@@ -1,0 +1,14 @@
+C:\Users\Xopero\source\repos\cwiczenie15\cwiczenie15\obj\Debug\netcoreapp3.1\cwiczenie15.csproj.AssemblyReference.cache
+C:\Users\Xopero\source\repos\cwiczenie15\cwiczenie15\obj\Debug\netcoreapp3.1\cwiczenie15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xopero\source\repos\cwiczenie15\cwiczenie15\obj\Debug\netcoreapp3.1\cwiczenie15.AssemblyInfoInputs.cache
+C:\Users\Xopero\source\repos\cwiczenie15\cwiczenie15\obj\Debug\netcoreapp3.1\cwiczenie15.AssemblyInfo.cs
+C:\Users\Xopero\source\repos\cwiczenie15\cwiczenie15\obj\Debug\netcoreapp3.1\cwiczenie15.csproj.CoreCompileInputs.cache
+C:\Users\Xopero\source\repos\cwiczenie15\cwiczenie15\bin\Debug\netcoreapp3.1\cwiczenie15.exe
+C:\Users\Xopero\source\repos\cwiczenie15\cwiczenie15\bin\Debug\netcoreapp3.1\cwiczenie15.deps.json
+C:\Users\Xopero\source\repos\cwiczenie15\cwiczenie15\bin\Debug\netcoreapp3.1\cwiczenie15.runtimeconfig.json
+C:\Users\Xopero\source\repos\cwiczenie15\cwiczenie15\bin\Debug\netcoreapp3.1\cwiczenie15.runtimeconfig.dev.json
+C:\Users\Xopero\source\repos\cwiczenie15\cwiczenie15\bin\Debug\netcoreapp3.1\cwiczenie15.dll
+C:\Users\Xopero\source\repos\cwiczenie15\cwiczenie15\bin\Debug\netcoreapp3.1\cwiczenie15.pdb
+C:\Users\Xopero\source\repos\cwiczenie15\cwiczenie15\obj\Debug\netcoreapp3.1\cwiczenie15.dll
+C:\Users\Xopero\source\repos\cwiczenie15\cwiczenie15\obj\Debug\netcoreapp3.1\cwiczenie15.pdb
+C:\Users\Xopero\source\repos\cwiczenie15\cwiczenie15\obj\Debug\netcoreapp3.1\cwiczenie15.genruntimeconfig.cache

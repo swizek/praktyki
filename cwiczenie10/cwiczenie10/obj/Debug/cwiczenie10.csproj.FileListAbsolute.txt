@@ -1,0 +1,10 @@
+C:\Users\Xopero\source\repos\cwiczenie10\cwiczenie10\bin\Debug\cwiczenie10.exe.config
+C:\Users\Xopero\source\repos\cwiczenie10\cwiczenie10\bin\Debug\cwiczenie10.exe
+C:\Users\Xopero\source\repos\cwiczenie10\cwiczenie10\bin\Debug\cwiczenie10.pdb
+C:\Users\Xopero\source\repos\cwiczenie10\cwiczenie10\obj\Debug\cwiczenie10.csproj.AssemblyReference.cache
+C:\Users\Xopero\source\repos\cwiczenie10\cwiczenie10\obj\Debug\cwiczenie10.Form1.resources
+C:\Users\Xopero\source\repos\cwiczenie10\cwiczenie10\obj\Debug\cwiczenie10.Properties.Resources.resources
+C:\Users\Xopero\source\repos\cwiczenie10\cwiczenie10\obj\Debug\cwiczenie10.csproj.GenerateResource.cache
+C:\Users\Xopero\source\repos\cwiczenie10\cwiczenie10\obj\Debug\cwiczenie10.csproj.CoreCompileInputs.cache
+C:\Users\Xopero\source\repos\cwiczenie10\cwiczenie10\obj\Debug\cwiczenie10.exe
+C:\Users\Xopero\source\repos\cwiczenie10\cwiczenie10\obj\Debug\cwiczenie10.pdb
