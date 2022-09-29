@@ -1,0 +1,5 @@
+C:\Users\Xopero\source\repos\cwiczenie18\cwiczenie18\obj\Debug\cwiczenie18.csproj.AssemblyReference.cache
+C:\Users\Xopero\source\repos\cwiczenie18\cwiczenie18\obj\Debug\cwiczenie18.Form1.resources
+C:\Users\Xopero\source\repos\cwiczenie18\cwiczenie18\obj\Debug\cwiczenie18.Properties.Resources.resources
+C:\Users\Xopero\source\repos\cwiczenie18\cwiczenie18\obj\Debug\cwiczenie18.csproj.GenerateResource.cache
+C:\Users\Xopero\source\repos\cwiczenie18\cwiczenie18\obj\Debug\cwiczenie18.csproj.CoreCompileInputs.cache
