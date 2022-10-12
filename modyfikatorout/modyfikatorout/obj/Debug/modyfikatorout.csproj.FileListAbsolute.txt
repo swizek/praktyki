@@ -1,0 +1,10 @@
+C:\Users\Xopero\source\repos\modyfikatorout\modyfikatorout\bin\Debug\modyfikatorout.exe.config
+C:\Users\Xopero\source\repos\modyfikatorout\modyfikatorout\bin\Debug\modyfikatorout.exe
+C:\Users\Xopero\source\repos\modyfikatorout\modyfikatorout\bin\Debug\modyfikatorout.pdb
+C:\Users\Xopero\source\repos\modyfikatorout\modyfikatorout\obj\Debug\modyfikatorout.csproj.AssemblyReference.cache
+C:\Users\Xopero\source\repos\modyfikatorout\modyfikatorout\obj\Debug\modyfikatorout.Form1.resources
+C:\Users\Xopero\source\repos\modyfikatorout\modyfikatorout\obj\Debug\modyfikatorout.Properties.Resources.resources
+C:\Users\Xopero\source\repos\modyfikatorout\modyfikatorout\obj\Debug\modyfikatorout.csproj.GenerateResource.cache
+C:\Users\Xopero\source\repos\modyfikatorout\modyfikatorout\obj\Debug\modyfikatorout.csproj.CoreCompileInputs.cache
+C:\Users\Xopero\source\repos\modyfikatorout\modyfikatorout\obj\Debug\modyfikatorout.exe
+C:\Users\Xopero\source\repos\modyfikatorout\modyfikatorout\obj\Debug\modyfikatorout.pdb

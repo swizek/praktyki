@@ -1,0 +1,14 @@
+C:\Users\Xopero\source\repos\zadaniedog\zadaniedog\bin\Debug\netcoreapp3.1\zadaniedog.exe
+C:\Users\Xopero\source\repos\zadaniedog\zadaniedog\bin\Debug\netcoreapp3.1\zadaniedog.deps.json
+C:\Users\Xopero\source\repos\zadaniedog\zadaniedog\bin\Debug\netcoreapp3.1\zadaniedog.runtimeconfig.json
+C:\Users\Xopero\source\repos\zadaniedog\zadaniedog\bin\Debug\netcoreapp3.1\zadaniedog.runtimeconfig.dev.json
+C:\Users\Xopero\source\repos\zadaniedog\zadaniedog\bin\Debug\netcoreapp3.1\zadaniedog.dll
+C:\Users\Xopero\source\repos\zadaniedog\zadaniedog\bin\Debug\netcoreapp3.1\zadaniedog.pdb
+C:\Users\Xopero\source\repos\zadaniedog\zadaniedog\obj\Debug\netcoreapp3.1\zadaniedog.csproj.AssemblyReference.cache
+C:\Users\Xopero\source\repos\zadaniedog\zadaniedog\obj\Debug\netcoreapp3.1\zadaniedog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xopero\source\repos\zadaniedog\zadaniedog\obj\Debug\netcoreapp3.1\zadaniedog.AssemblyInfoInputs.cache
+C:\Users\Xopero\source\repos\zadaniedog\zadaniedog\obj\Debug\netcoreapp3.1\zadaniedog.AssemblyInfo.cs
+C:\Users\Xopero\source\repos\zadaniedog\zadaniedog\obj\Debug\netcoreapp3.1\zadaniedog.csproj.CoreCompileInputs.cache
+C:\Users\Xopero\source\repos\zadaniedog\zadaniedog\obj\Debug\netcoreapp3.1\zadaniedog.dll
+C:\Users\Xopero\source\repos\zadaniedog\zadaniedog\obj\Debug\netcoreapp3.1\zadaniedog.pdb
+C:\Users\Xopero\source\repos\zadaniedog\zadaniedog\obj\Debug\netcoreapp3.1\zadaniedog.genruntimeconfig.cache
