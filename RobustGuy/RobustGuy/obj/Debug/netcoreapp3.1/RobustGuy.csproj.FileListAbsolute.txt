@@ -1,0 +1,14 @@
+C:\Users\Xopero\source\repos\RobustGuy\RobustGuy\bin\Debug\netcoreapp3.1\RobustGuy.exe
+C:\Users\Xopero\source\repos\RobustGuy\RobustGuy\bin\Debug\netcoreapp3.1\RobustGuy.deps.json
+C:\Users\Xopero\source\repos\RobustGuy\RobustGuy\bin\Debug\netcoreapp3.1\RobustGuy.runtimeconfig.json
+C:\Users\Xopero\source\repos\RobustGuy\RobustGuy\bin\Debug\netcoreapp3.1\RobustGuy.runtimeconfig.dev.json
+C:\Users\Xopero\source\repos\RobustGuy\RobustGuy\bin\Debug\netcoreapp3.1\RobustGuy.dll
+C:\Users\Xopero\source\repos\RobustGuy\RobustGuy\bin\Debug\netcoreapp3.1\RobustGuy.pdb
+C:\Users\Xopero\source\repos\RobustGuy\RobustGuy\obj\Debug\netcoreapp3.1\RobustGuy.csproj.AssemblyReference.cache
+C:\Users\Xopero\source\repos\RobustGuy\RobustGuy\obj\Debug\netcoreapp3.1\RobustGuy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xopero\source\repos\RobustGuy\RobustGuy\obj\Debug\netcoreapp3.1\RobustGuy.AssemblyInfoInputs.cache
+C:\Users\Xopero\source\repos\RobustGuy\RobustGuy\obj\Debug\netcoreapp3.1\RobustGuy.AssemblyInfo.cs
+C:\Users\Xopero\source\repos\RobustGuy\RobustGuy\obj\Debug\netcoreapp3.1\RobustGuy.csproj.CoreCompileInputs.cache
+C:\Users\Xopero\source\repos\RobustGuy\RobustGuy\obj\Debug\netcoreapp3.1\RobustGuy.dll
+C:\Users\Xopero\source\repos\RobustGuy\RobustGuy\obj\Debug\netcoreapp3.1\RobustGuy.pdb
+C:\Users\Xopero\source\repos\RobustGuy\RobustGuy\obj\Debug\netcoreapp3.1\RobustGuy.genruntimeconfig.cache
